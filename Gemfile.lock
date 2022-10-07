@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cliver (0.3.2)
+    pdftotext (0.2.1)
+      cliver (~> 0.3)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  pdftotext
+
+BUNDLED WITH
+   2.2.3
