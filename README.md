@@ -2,7 +2,7 @@
 
 # read-write-ruby
 
-> It is a ruby console app where you input a pdf document and then the input the grouping keyword. The program extracts texts and create different pdf article for each keyword
+> It is a ruby console app where you input a pdf document and then the input the grouping keyword. The program extracts texts and create different pdf with text grouped by keyword.
 
 
 # Built with
