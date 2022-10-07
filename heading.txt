@@ -1,7 +1,0 @@
-HEADING-1: Byimana.
-this is the first paragraph.
-byimana academy.
-
-HEADING-2: saint esprit.
-this is the second paragraph.
-saint esprit academy.
