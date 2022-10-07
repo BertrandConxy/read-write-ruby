@@ -1,2 +1,2 @@
 source 'https://rubygems.org'
-gem 'pdftotext'
+gem 'pdf-reader'
